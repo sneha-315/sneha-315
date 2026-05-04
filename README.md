@@ -106,28 +106,59 @@ sneha = {
 ---
 
 
+
 ## 🌟 FEATURED PROJECTS
 
-### 🌾 Rice Leaf Disease Prediction
+### 🌾 Rice Leaf Disease Prediction (AI/ML)
 
-* Achieved **99.97% accuracy** using ResNet50
-* Used **Transfer Learning + SVM + PCA**
+Deep learning-based crop disease detection system
+
+🔬 Built using **VGG16, VGG19, ResNet50 (Transfer Learning)**
+📊 Achieved up to **99.97% accuracy**
+🧠 Integrated **HOG + LBP feature extraction**
+⚙️ Used **SVM & Random Forest with PCA optimization**
+🌍 Real-world application for smart agriculture
+
+**Tech:** Python, TensorFlow, Keras, OpenCV, Scikit-learn
 
 ---
 
 ### 🧑‍💻 Face Recognition System
 
-* Built using **CNN + LSTM**
-* Improved accuracy by **25%**
+Intelligent face recognition with temporal modeling
+
+📸 Implemented **PCA, LDA, CNN, CNN-LSTM**
+⚡ Improved accuracy by **25%** using sequence learning
+🎯 Achieved **92.5% accuracy with CNN-LSTM**
+🔍 Robust recognition under varying conditions
+
+**Tech:** Python, OpenCV, Deep Learning, NumPy
 
 ---
 
 ### 🧠 Medical Image Reconstruction
 
-* Autoencoder model
-* Metrics: **SSIM 0.968 | PSNR 40.82**
+AI-powered image enhancement for medical diagnostics
+
+🧬 Built **Convolutional Autoencoder model**
+📊 Metrics: **PSNR: 40.82 | SSIM: 0.968 | Accuracy: 96.8%**
+🧼 Reduced noise while preserving critical features
+🏥 Useful for **retinal image analysis & diagnostics**
+
+**Tech:** Python, TensorFlow, CNN, Image Processing
 
 ---
+
+## 🎯Other projects:--
+
+
+
+🏥 **AI Healthcare Assistant** – Disease prediction & recommendation system
+📊 **Data Analytics Dashboard** – Interactive visualization & insights
+🤖 **NLP-based Chat System** – Intelligent conversational AI
+
+🚀 Always building. Always improving. Always learning.
+
 
 ## 💼 EXPERIENCE
 
