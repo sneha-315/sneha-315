@@ -94,13 +94,7 @@ sneha = {
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
-</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
