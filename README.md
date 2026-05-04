@@ -88,13 +88,26 @@ sneha = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
-### 📊 Data Science
+## 📊 Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
+</p>
 
 ---
 
