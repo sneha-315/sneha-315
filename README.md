@@ -64,26 +64,29 @@ sneha = {
 
 ## 🛠️ TECH STACK & ARSENAL
 
-### 🚀 Languages
+## 🚀 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
+</p>
 
----
+## 🌐 Frontend
 
-### 🤖 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+## ⚙️ Backend & Database
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
 
 ### 📊 Data Science
 
@@ -94,14 +97,6 @@ sneha = {
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
-
-### ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 
 
 ## 🌟 FEATURED PROJECTS
