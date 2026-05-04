@@ -107,57 +107,60 @@ sneha = {
 
 
 
-## 🌟 FEATURED PROJECTS
-
-### 🌾 Rice Leaf Disease Prediction (AI/ML)
-
-Deep learning-based crop disease detection system
-
-🔬 Built using **VGG16, VGG19, ResNet50 (Transfer Learning)**
-📊 Achieved up to **99.97% accuracy**
-🧠 Integrated **HOG + LBP feature extraction**
-⚙️ Used **SVM & Random Forest with PCA optimization**
-🌍 Real-world application for smart agriculture
-
-**Tech:** Python, TensorFlow, Keras, OpenCV, Scikit-learn
 
 ---
 
-### 🧑‍💻 Face Recognition System
-
-Intelligent face recognition with temporal modeling
-
-📸 Implemented **PCA, LDA, CNN, CNN-LSTM**
-⚡ Improved accuracy by **25%** using sequence learning
-🎯 Achieved **92.5% accuracy with CNN-LSTM**
-🔍 Robust recognition under varying conditions
-
-**Tech:** Python, OpenCV, Deep Learning, NumPy
-
----
-
-### 🧠 Medical Image Reconstruction
-
-AI-powered image enhancement for medical diagnostics
-
-🧬 Built **Convolutional Autoencoder model**
-📊 Metrics: **PSNR: 40.82 | SSIM: 0.968 | Accuracy: 96.8%**
-🧼 Reduced noise while preserving critical features
-🏥 Useful for **retinal image analysis & diagnostics**
-
-**Tech:** Python, TensorFlow, CNN, Image Processing
-
----
-
-## 🎯Other projects:--
 
 
 
-🏥 **AI Healthcare Assistant** – Disease prediction & recommendation system
-📊 **Data Analytics Dashboard** – Interactive visualization & insights
-🤖 **NLP-based Chat System** – Intelligent conversational AI
+<h2>🌟 FEATURED PROJECTS</h2>
 
-🚀 Always building. Always improving. Always learning.
+<h3>🌾 Rice Leaf Disease Prediction (AI/ML)</h3>
+<p>Deep learning-based crop disease detection system</p>
+<ul>
+  <li>🔬 Built using <b>VGG16, VGG19, ResNet50 (Transfer Learning)</b></li>
+  <li>📊 Achieved up to <b>99.97% accuracy</b></li>
+  <li>🧠 Integrated <b>HOG + LBP feature extraction</b></li>
+  <li>⚙️ Used <b>SVM & Random Forest with PCA optimization</b></li>
+  <li>🌍 Real-world application for smart agriculture</li>
+</ul>
+<p><b>Tech:</b> Python, TensorFlow, Keras, OpenCV, Scikit-learn</p>
+
+<hr/>
+
+<h3>🧑‍💻 Face Recognition System</h3>
+<p>Intelligent face recognition with temporal modeling</p>
+<ul>
+  <li>📸 Implemented <b>PCA, LDA, CNN, CNN-LSTM</b></li>
+  <li>⚡ Improved accuracy by <b>25%</b></li>
+  <li>🎯 Achieved <b>92.5% accuracy with CNN-LSTM</b></li>
+  <li>🔍 Robust recognition under varying conditions</li>
+</ul>
+<p><b>Tech:</b> Python, OpenCV, Deep Learning, NumPy</p>
+
+<hr/>
+
+<h3>🧠 Medical Image Reconstruction</h3>
+<p>AI-powered image enhancement for medical diagnostics</p>
+<ul>
+  <li>🧬 Built <b>Convolutional Autoencoder</b></li>
+  <li>📊 Metrics: <b>PSNR: 40.82 | SSIM: 0.968 | Accuracy: 96.8%</b></li>
+  <li>🧼 Reduced noise while preserving important features</li>
+  <li>🏥 Useful for retinal image analysis</li>
+</ul>
+<p><b>Tech:</b> Python, TensorFlow, CNN, Image Processing</p>
+
+<hr/>
+
+<h3>🎯 Other projects </h3>
+<ul>
+  <li>🏥 AI Healthcare Assistant – Disease prediction system</li>
+  <li>📊 Data Analytics Dashboard – Visualization & insights</li>
+  <li>🤖 NLP Chat System – Conversational AI</li>
+    <li> 8 Puzzle Game App</li>
+</ul>
+
+<p><b>🚀 Always building. Always learning.</b></p>
 
 
 ## 💼 EXPERIENCE
