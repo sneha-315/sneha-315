@@ -244,7 +244,11 @@ sneha = {
 * 📧 Email: pratiharsneha@gmail.com
 
 ---
+<h2>🐍 CONTRIBUTION SNAKE</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 ## ⚡ FUN FACT
 
 I don’t just train models… I push them until they **actually outperform expectations** 🚀
