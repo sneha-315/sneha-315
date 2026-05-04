@@ -1,3 +1,12 @@
+<h1 align="center">👩‍💻 SNEHA PRATIHAR</h1>
+
+<h3 align="center">
+💻 AI/ML Engineer • 🧠 Deep Learning Researcher • 🚀 Data Science Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Explorer;Building+AI+for+Real+World;Always+Learning+New+Things" />
+</p>
 # 👩‍💻 SNEHA PRATIHAR
 
 💻 AI/ML Engineer • 🧠 Deep Learning Researcher • 🚀 Data Science Enthusiast
