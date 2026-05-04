@@ -191,13 +191,7 @@ sneha = {
 
 ---
 
-## 📈 GITHUB ANALYTICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
-
----
 <h2>🧠 COMPETITIVE PROGRAMMING</h2>
 
 <p>Strong problem-solving mindset with consistent performance across coding platforms</p>
