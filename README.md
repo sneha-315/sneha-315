@@ -189,21 +189,56 @@ sneha = {
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
 
 ---
+<h2>🧠 COMPETITIVE PROGRAMMING</h2>
 
-## 🤝 OPEN TO COLLABORATE ON
+<p>Strong problem-solving mindset with consistent performance across coding platforms</p>
 
-🤖 AI/ML Projects – Deep Learning, Computer Vision
-📊 Data Science – Analytics, Prediction Models
-🚀 Research Work – Papers & innovation
-🌐 Open Source – AI tools & applications
+<ul>
+  <li>⭐ <b>HackerRank:</b> 5★ in C, Java, SQL (Top 5%)</li>
+  <li>🌍 <b>GeeksforGeeks:</b> Ranked in Top 4% globally</li>
+  <li>🏆 <b>Kaggle:</b> Top 30% among 10,000+ participants</li>
+  <li>🚀 Strong foundation in <b>Data Structures & Algorithms</b></li>
+  <li>⚡ Experienced in solving problems on arrays, graphs, DP, and trees</li>
+</ul>
+
+<hr/>
+
+<h3>📊 Problem Solving Highlights</h3>
+<ul>
+  <li>🧩 Solved 300+ DSA problems across platforms</li>
+  <li>📈 Focus on optimization & clean coding practices</li>
+  <li>🎯 Regular practice of contest-level questions</li>
+</ul>
+
+<hr/>
+
+<h3>🎯 Current Goals</h3>
+<ul>
+  <li>🚀 Strengthen advanced DSA (Graphs, DP, Greedy)</li>
+  <li>⚡ Improve speed & accuracy in coding contests</li>
+  <li>🏆 Target top rankings in competitive platforms</li>
+</ul>
+
+
 
 ---
+<img width="1056" height="511" alt="Screenshot 2026-05-04 110821" src="https://github.com/user-attachments/assets/f62630dc-3065-49d2-ac84-0dcf65244758" />
+
+<h2>🤝 OPEN TO COLLABORATE ON</h2>
+
+<ul>
+  <li>🤖 <b>AI/ML Projects</b> – Deep Learning, Computer Vision</li>
+  <li>📊 <b>Data Science</b> – Analytics, Prediction Models</li>
+  <li>🚀 <b>Research Work</b> – Papers & Innovation</li>
+  <li>🌐 <b>Open Source</b> – AI Tools & Applications</li>
+</ul>
+
 
 ## 📫 LET'S CONNECT
 
-* 💼 LinkedIn: [Add Link]
-* 🌐 Portfolio: [Add Link]
-* 📧 Email: [Add Email]
+* 💼 LinkedIn: https://www.linkedin.com/in/sneha-pratihar-23109b298/
+* 🌐 Portfolio: https://spectacular-fox-ee3c1c.netlify.app/
+* 📧 Email: pratiharsneha@gmail.com
 
 ---
 
