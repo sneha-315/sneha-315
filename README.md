@@ -247,7 +247,7 @@ sneha = {
 <h2>🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sneha-315/sneha-315/output/github-contribution-grid-snake.svg" />
 </p>
 ## ⚡ FUN FACT
 
